@@ -1,0 +1,1 @@
+to start the app using docker (recommended) type `docker-compose up --build` in the root directory where `docker-compose.yaml` is located
